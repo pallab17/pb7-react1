@@ -39,8 +39,35 @@ import React from "react" Anymore }
 
  }
 
+ 5. 
+ What is JSX? 
+ Jsx hocche js code r modhe html code lekhar ekta upay
+ same bhabe html code r modhe js code lekhar upay
  
+ [Note-  eibar import react e ekta compiler ache jeta html code take pure js code e convert kore 
+ jate amra render/produce/dekhte pai webapp take  ]
+
+Rules to write JSX.---->
+
+It always return single element
+
+use Div or React Fragment to wrap all your JSX Code
+
+ClassName in place of class
+
+Need to close all non closing Tags in JSX
+
+Use camelCase for attributes
  
+[Note-- we will use arrow fn in this course]
+
+6. What is Nested Components?
+ekta component r modhe aar ekta component ke pass korano 
+
+ekta component r naam Capital letter diye start kora hocche better practice
+component r modhe return keyword lekha  compulsory
+
+[Note--> fn ke amra react e component boli ]
 
 
 
