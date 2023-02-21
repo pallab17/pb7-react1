@@ -1,0 +1,48 @@
+/*
+
+1. prothome amra react ki janlam?
+react hocche ekta js libary jeta kaj kore component wise jeta  amader kaj ke 
+simple kore deye 
+
+2. npx - ekbar use(node r benefits) korar jonno
+npm- whole fn/benefits of node ese jaye i.e. full package barbar use kora jaye
+npx create-react-app app-name 
+syntax of creating a react app
+
+3. understanding of folder structure
+
+90% of time amra public folder use ei korbo na
+
+app.js(component bhabchi) 
+app.js file  take amra pass korchi index.js e tarpor index.js theke index.html e
+tarpor index.html theke ui  ta public dekhte parche
+
+tarpor amra boiler code that is src folder e sudhu app.js aar index.js file rekhe
+baki guno uriye debo ebong public folder e sudhu index.html manifest.json aar robots.txt file e pore thakbe
+
+4. rafce likhe react boiler code generate korbo
+
+ 
+ 
+{ Our First Component in React JS
+Three things are mandatory & that are
+import React from "react"
+any one function (functional Component)
+It should always return JSX.
+
+After React 17.0 Version, Now no need to write
+import React from "react" Anymore }
+ {
+    but jodi amra React dot function use kori 
+    like e.g React.creatElement then we have to write
+    import React from "react";
+
+ }
+
+ 
+ 
+
+
+
+
+*/
